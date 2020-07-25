@@ -39,3 +39,29 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+                /*Media Queries */
+
+  /*Extra small devices (phones)*/
+
+  /*Small Devices (portrait tablets and large phones) */
+@media only screen and (max-width:600px){
+  h1{
+    font-size:3rem;
+  }
+}
+
+@media only screen and (min-width:600px){
+
+}
+  /*Medium devices (landscape tablets)*/
+@media only screen and (min-width:768px){
+
+}
+  /*Large Devices (laptops) */
+@media only screen and (min-width:992px){
+
+}
+  /*Extra Large Devices (Desktop and large laptops) */
+@media only screen and(min-width:992px) {
+
+}
