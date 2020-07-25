@@ -45,7 +45,7 @@ footer {
 
   /*Small Devices (portrait tablets and large phones) */
 @media only screen and (max-width:600px){
-  h1{
+  .footer {
     font-size:3rem;
   }
 }
