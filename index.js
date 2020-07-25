@@ -14,7 +14,7 @@ function competitionResult(randomNumber1,randomNumber2) {
      x.querySelector("h1").innerHTML ="Player 2 Wins!🚩";
   }
   else {
-     x.querySelector("h1").innerHTML ="🚩Draw!🚩";
+     x.querySelector("h1").innerHTML ="Draw!";
   }
 }
 var randomNumber1 = getRandomInt(1,6);
